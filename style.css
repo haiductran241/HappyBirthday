@@ -21,8 +21,9 @@ body {
 
 .gift-img {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 150%;
+  height: 150;
+  align-items: center;
 }
 
 .gift:hover {
@@ -85,8 +86,8 @@ body {
 .img-gift {
   margin: auto;
   border-radius: 10px;
-  width: 300px;
-  height: 200px;
+  width: 500px;
+  height: 500px;
   background-image: url(./123.gif);
   background-size: cover;
   background-position: top center;
