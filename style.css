@@ -21,8 +21,9 @@ body {
 
 .gift-img {
   display: block;
-  width: 150%;
-  height: 150;
+  width: auto;
+  height: auto;
+  margin: -50px;
 }
 
 .gift:hover {
