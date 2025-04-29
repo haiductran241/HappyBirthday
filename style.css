@@ -115,6 +115,11 @@ h1 {
   opacity: 0;
   /* font-family: Arial, sans-serif; */
 }
+.birthdaycake{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+ }
 
 @keyframes fall {
   0% {
