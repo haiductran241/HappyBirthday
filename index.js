@@ -102,8 +102,8 @@ function listenMicrophone() {
             txt.style.display = "block";
           }, 750);
 
-          candle.style.transition = "opacity 0.1s";
-          candle.style.opacity = 0.5;
+          candle.style.transition = "opacity 0.5s";
+          candle.style.opacity = 0;
 
           // Chỉ hiển thị message sau khi tắt lửa
           setTimeout(() => {
